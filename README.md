@@ -40,27 +40,27 @@ Install commands:
 
 ```
 
+##
 
-## Note
+### Note
 
-Note:
 - This app uses resource route.
 - To see product crud: browse - yoursiteurl/products 
   <br>(Ex. http://127.0.0.1:8000/products)
 
 
-## License
+### License
 
 The Laravel 8 Crud is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
-## Contact
+### Contact
 
 Feel free to contact:  
 <a href="https://www.nazmulrobin.com/">nazmulrobin.com</a> | <a href="https://twitter.com/nhr_rob">Twitter</a> | <a href="https://www.linkedin.com/in/nhrrob/">Linkedin</a> | <a href="mailto:robin.sust08@gmail.com">Email</a>
 
 
-## Bonus 
+### Bonus 
 Laravel 8 auth using laravel/ui:
 - <code>composer require laravel/ui</code>
 - <code>php artisan ui bootstrap --auth</code>
