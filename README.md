@@ -3,16 +3,15 @@
 ## NHRROB Crud Generator Package
 
 <p align="left">
-<a href="https://github.com/nhrrob/crudgenerator/stargazers"><img src="https://img.shields.io/github/stars/nhrrob/crudgenerator?style=flat-square" alt="Stars"></a>
-<a href="https://packagist.org/packages/nhrrob/crudgenerator"><img src="https://img.shields.io/packagist/dt/nhrrob/crudgenerator.svg?style=flat-square" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/nhrrob/crudgenerator"><img src="https://img.shields.io/packagist/v/nhrrob/crudgenerator" alt="Latest Stable Version"></a>
-<a href="https://github.com/nhrrob/crudgenerator/blob/master/LICENSE.md"><img alt="GitHub license" src="https://img.shields.io/github/license/nhrrob/crudgenerator"></a>
+<a href="https://github.com/nhrrob/laravel-8-crud/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/nhrrob/laravel-8-crud"></a>
+<a href="https://github.com/nhrrob/nhrrob-8-crud/stargazers"><img src="https://img.shields.io/github/stars/nhrrob/nhrrob-8-crud?style=flat-square" alt="Stars"></a>
+<a href="https://github.com/nhrrob/nhrrob-8-crud/blob/master/LICENSE.md"><img alt="GitHub license" src="https://img.shields.io/github/license/nhrrob/nhrrob-8-crud"></a>
 </p>
 
 ### This package provides an artisan command to generate a basic crud
 
 composer install command: 
-<code>composer require nhrrob/crudgenerator</code>
+<code>composer require nhrrob/nhrrob-8-crud</code>
 
 ## 
 
