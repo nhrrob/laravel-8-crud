@@ -32,7 +32,7 @@ This app created to help developers to get started with their crud based apps.
 
 Install commands:
 ``` 
-- git clone https://github.com/nhrrob/crudgenerator.git 
+- git clone https://github.com/nhrrob/laravel-8-crud.git 
 - composer update
 - add .env and update database settings
 - php artisan migrate:fresh --seed
