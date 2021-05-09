@@ -22,7 +22,7 @@ Features include:
 - Migration file.
 - Request file used to validate request data
 - NHRROB Crud Generator package to generate crud using command
-  (https://github.com/nhrrob/crudgenerator - ```composer require nhrrob/crudgenerator```)  
+  <br>(https://github.com/nhrrob/crudgenerator - ```composer require nhrrob/crudgenerator```)  
 - Pagination support
 
 This application created to help developers to get started with their crud based applications.
@@ -33,7 +33,7 @@ This application created to help developers to get started with their crud based
 Note:
 - This project uses resource route.
 - To see product crud: browse - yoursiteurl/products 
-  (Ex. http://127.0.0.1:8000/products)
+  <br>(Ex. http://127.0.0.1:8000/products)
 
 
 ## Install
