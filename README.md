@@ -46,6 +46,7 @@ Install commands:
 - This app uses resource route.
 - To see product crud: browse - yoursiteurl/products 
   <br>(Ex. http://127.0.0.1:8000/products)
+- Demo User: ```admin@admin.com/password```
 
 
 ## License
