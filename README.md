@@ -28,14 +28,6 @@ Features include:
 This app created to help developers to get started with their crud based apps.
 
 
-## Note
-
-Note:
-- This app uses resource route.
-- To see product crud: browse - yoursiteurl/products 
-  <br>(Ex. http://127.0.0.1:8000/products)
-
-
 ## Install
 
 Install commands:
@@ -47,6 +39,15 @@ Install commands:
 - php artisan serve
 
 ```
+
+
+## Note
+
+Note:
+- This app uses resource route.
+- To see product crud: browse - yoursiteurl/products 
+  <br>(Ex. http://127.0.0.1:8000/products)
+
 
 ## License
 
