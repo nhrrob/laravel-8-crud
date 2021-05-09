@@ -10,7 +10,7 @@
 
 ## About Laravel 8 Crud
 
-Laravel 8 Crud is a basic crud application built with laravel 8. In this application a basic product crud created. 
+Laravel 8 Crud is a basic crud app built with laravel 8. In this app a basic product crud created. 
 Features include:
 
 - Laravel ui package (```composer require laravel/ui```)
@@ -25,13 +25,13 @@ Features include:
   <br>(https://github.com/nhrrob/crudgenerator - ```composer require nhrrob/crudgenerator```)  
 - Pagination support
 
-This application created to help developers to get started with their crud based applications.
+This app created to help developers to get started with their crud based apps.
 
 
 ## Note
 
 Note:
-- This project uses resource route.
+- This app uses resource route.
 - To see product crud: browse - yoursiteurl/products 
   <br>(Ex. http://127.0.0.1:8000/products)
 
