@@ -4,14 +4,16 @@
 
 <p align="left">
 <a href="https://github.com/nhrrob/laravel-8-crud/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/nhrrob/laravel-8-crud"></a>
-<a href="https://github.com/nhrrob/nhrrob-8-crud/stargazers"><img src="https://img.shields.io/github/stars/nhrrob/nhrrob-8-crud?style=flat-square" alt="Stars"></a>
-<a href="https://github.com/nhrrob/nhrrob-8-crud/blob/master/LICENSE.md"><img alt="GitHub license" src="https://img.shields.io/github/license/nhrrob/nhrrob-8-crud"></a>
+<a href="https://github.com/nhrrob/laravel-8-crud/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/nhrrob/laravel-8-crud"></a>
+<a href="https://github.com/nhrrob/laravel-8-crud/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/nhrrob/laravel-8-crud"></a>
+<a href="https://github.com/nhrrob/laravel-8-crud/blob/master/LICENSE.md"><img alt="GitHub license" src="https://img.shields.io/github/license/nhrrob/laravel-8-crud"></a>
+
 </p>
 
 ### This package provides an artisan command to generate a basic crud
 
 composer install command: 
-<code>composer require nhrrob/nhrrob-8-crud</code>
+<code>composer require nhrrob/laravel-8-crud</code>
 
 ## 
 
